@@ -14,5 +14,5 @@ std::string bufr = dir + "2/training/0010/" + base_name;
 ```
 Now try to run:
 
-freespace.cpp
+main.cpp
 ```
