@@ -2,6 +2,8 @@
 
 The code Free-Space is based on c++ and opencv.
 
+![Point](free_space.png) 
+
 ```
 The image data  is  http://www.cvlibs.net/datasets/kitti/eval_stereo.php
 
